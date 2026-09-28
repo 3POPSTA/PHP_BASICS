@@ -34,7 +34,5 @@
     echo $p-> name . "<br>";
 
     echo $p-> getAge();
-    echo Person::counter();
-
-
+    echo Person::counter();
 ?>
