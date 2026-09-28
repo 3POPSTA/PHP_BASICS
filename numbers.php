@@ -53,9 +53,5 @@
     //number formating
     $number = 123456789.12345;
     echo number_format($number,2,".",","). "<br>";
-    echo number_format($number,2,"."," "). "<br>";
-
-    
-
-
+    echo number_format($number,2,"."," "). "<br>";
 ?>
