@@ -31,6 +31,5 @@
     ]);
     $result = curl_exec($resouce);
     // curl_close($resouce);
-    echo $result;
-
+    echo $result;
 ?>
