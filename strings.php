@@ -35,10 +35,5 @@
     echo $longText . "<br>";
     echo nl2br($longText)."<br>";
     echo htmlentities($longText) ."<br>";
-    echo nl2br(htmlentities($longText)) . "<br>";
-
-
-
-
-
+    echo nl2br(htmlentities($longText)) . "<br>";
 ?>
