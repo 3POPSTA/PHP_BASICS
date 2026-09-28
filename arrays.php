@@ -136,6 +136,5 @@
     ];
     echo "<pre>";
     var_dump($todos);
-    echo "</pre>";
-
+    echo "</pre>";
 ?>
