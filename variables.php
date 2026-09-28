@@ -40,7 +40,5 @@
 
     //built-in constants
     echo SORT_ASC  . "<br>";
-    echo PHP_INT_MAX  . "<br>";
-
-
+    echo PHP_INT_MAX  . "<br>";
 ?>
