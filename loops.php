@@ -46,6 +46,5 @@
         else{
             echo $key . " " . $value . "<br>";
         }
-    }
-
+    }
 ?>
